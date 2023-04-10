@@ -1,7 +1,7 @@
 ### Hi there! This is Riddhi Mahesh Dange 👋
 
 
-👩🏻‍🏫 Pursuing Master's in Computer Science at Stevens Institute of Technology
+👩🏻‍🏫 Pursuing Master's in Computer Science from Stevens Institute of Technology
 
 🌱 Currently learning & growing in the field of Software Development and Data Science with courses like Data Structures and Algorithms, Agile Methodologies, Web Development, Data Structures, Data Mining, and Database Management Systems
 
