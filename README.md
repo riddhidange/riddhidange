@@ -1,5 +1,7 @@
 ### Hi there! This is Riddhi Mahesh Dange 👋
 
+## ABOUT ME
+
 
 👩🏻‍🏫 Pursuing Master's in Computer Science from Stevens Institute of Technology
 
