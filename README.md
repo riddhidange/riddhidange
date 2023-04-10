@@ -34,8 +34,11 @@
 
 
 Programming Languages: Python, R, C, C++, Java, SQL
+
 Web Technologies: HTML, CSS, JavaScript, Flask, React
+
 Software Tools: GIT, Eclipse, RStudio, Eclipse IDE, and Microsoft Office
+
 Library: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, R Shiny
 
 
