@@ -21,7 +21,7 @@
 
 🌱 Currently learning & growing in the field of Software Development and Data Science with courses like Data Structures and Algorithms, Agile Methodologies, Web Development, Data Structures, Data Mining, and Database Management Systems
 
-🦹🏻‍♀️ Brushing up my Data Structures and Algorithms skills 
+🦹🏻‍♀️ Brushing up on my Data Structures and Algorithms skills 
 
 📫 How to reach me for opportuinities and collaboration : riddhi.dange@outlook.com
 
