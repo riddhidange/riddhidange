@@ -30,5 +30,13 @@
 😎 Nature: Driven, Dedicated, & Hardworking 🎯
 
 
+### Here is a list of the tools and languages I've experience with:
+
+
+Programming Languages: Python, R, C, C++, Java, SQL
+Web Technologies: HTML, CSS, JavaScript, Flask, React
+Software Tools: GIT, Eclipse, RStudio, Eclipse IDE, and Microsoft Office
+Library: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, R Shiny
+
 
 
