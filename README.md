@@ -12,7 +12,6 @@
 😄 Pronouns: she/her
 
 😎 Nature: Driven, Dedicated, & Hardworking 🎯
-<img width="231" alt="Manager" src="https://user-images.githubusercontent.com/67019064/230844692-956af6ba-d119-4942-b720-7dc3410b27c4.png">
 
 
 
