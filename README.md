@@ -1,4 +1,4 @@
-### Hi there! This is Riddhi Mahesh Dange 👋
+# Hi there! This is Riddhi Mahesh Dange 👋
 
 ## ABOUT ME
 
