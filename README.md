@@ -61,7 +61,6 @@ Library: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, R Shiny
 <img src="https://img.icons8.com/color/240/000000/javascript.png" height="50" width="50"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/react-native.png" height="50" width="50"/>
-<img src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/bootstrap.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/python.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/git.png" height="50" width="50"/>
