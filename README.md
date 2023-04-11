@@ -42,4 +42,17 @@ Software Tools: GIT, Eclipse, RStudio, Eclipse IDE, and Microsoft Office
 Library: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, R Shiny
 
 
+<h3 align="left">Connect with me:</h3>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/riddhidange//" alr="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-gold?logo=LinkedIn&logoColor=black" /></a>
+
+  <a href="mailto:riddhi.dange@outlook.com" alr="Medium">
+    <img src="https://img.shields.io/badge/-gmail-gold?logo=gmail&logoColor=black" /></a>
+  
+<p align='left'>
+
+</p>
+
+
 
