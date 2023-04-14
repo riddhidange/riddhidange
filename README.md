@@ -42,19 +42,6 @@ Software Tools: GIT, Eclipse, RStudio, Eclipse IDE, and Microsoft Office
 Library: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, R Shiny
 
 
-<h3 align="left">Connect with me:</h3>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/riddhidange//" alr="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-gold?logo=LinkedIn&logoColor=black" /></a>
-
-  <a href="mailto:riddhi.dange@outlook.com" alr="Medium">
-    <img src="https://img.shields.io/badge/-Outlook-gold?logo=Outlook&logoColor=black" /></a>
-  
-<p align='left'>
-
-</p>
-
-### 👩🏻‍💻 Languages and Tools
 <div>
 <img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/css3.png" height="50" width="50"/>
@@ -67,6 +54,20 @@ Library: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, R Shiny
 <img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="50" width="50"/>
 <img src="https://img.icons8.com/color/240/000000/visual-studio-code-2019.png" height="50" width="50"/>
 </div>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/riddhidange//" alr="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-gold?logo=LinkedIn&logoColor=black" /></a>
+
+  <a href="mailto:riddhi.dange@outlook.com" alr="Medium">
+    <img src="https://img.shields.io/badge/-Outlook-gold?logo=Outlook&logoColor=black" /></a>
+  
+<p align='left'>
+
+</p>
+
 
 
 
