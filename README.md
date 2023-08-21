@@ -27,13 +27,14 @@
 
 📫 How to reach me for opportuinities and collaboration : riddhi.dange@outlook.com
 
+👩🏻‍🏫 Will be attending Grace Hopper Celebration Conference 2023 in Orlando.
+
+👩🏻‍🏫 Completed Certification in CodePath Advanced Technical Interview Preparation.
+
 😄 Pronouns: she/her
 
 😎 Nature: Driven, Dedicated, & Hardworking 🎯
 
-👩🏻‍🏫 Will be attending Grace Hopper Celebration Conference 2023 in Orlando.
-
-👩🏻‍🏫 Completed Certification in CodePath Advanced Technical Interview Preparation.
 
 ### Here is a list of the tools and languages I've experience with:
 
