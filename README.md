@@ -31,6 +31,9 @@
 
 😎 Nature: Driven, Dedicated, & Hardworking 🎯
 
+👩🏻‍🏫 Will be attending Grace Hopper Celebration Conference 2023 in Orlando.
+
+👩🏻‍🏫 Completed Certification in CodePath Advanced Technical Interview Preparation.
 
 ### Here is a list of the tools and languages I've experience with:
 
