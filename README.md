@@ -67,7 +67,7 @@ Library: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, R Shiny
   <a href="https://www.linkedin.com/in/riddhidange//" alr="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-gold?logo=LinkedIn&logoColor=black" /></a>
 
-  <a href="mailto:riddhi.dange@outlook.com" alr="Medium">
+  <a href="mailto:riddhi.dange@gmail.com" alr="Medium">
     <img src="https://img.shields.io/badge/-Outlook-gold?logo=Outlook&logoColor=black" /></a>
   
 <p align='left'>
