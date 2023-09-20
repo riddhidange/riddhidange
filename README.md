@@ -25,7 +25,7 @@
 
 🦹🏻‍♀️ Brushing up on my Data Structures and Algorithms skills 
 
-📫 How to reach me for opportuinities and collaboration : riddhi.dange@outlook.com
+📫 How to reach me for opportuinities and collaboration : riddhi.dange@gmail.com
 
 👩🏻‍🏫 Will be attending Grace Hopper Celebration Conference 2023 in Orlando.
 
