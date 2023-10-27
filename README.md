@@ -50,19 +50,6 @@ Software Tools: GIT, Eclipse, RStudio, Eclipse IDE, and Microsoft Office
 Library: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, R Shiny
 
 
-<div>
-<img src="https://img.icons8.com/color/240/000000/html-5--v1.png" height="50" width="50"/>
-<img src="https://img.icons8.com/color/240/000000/css3.png" height="50" width="50"/>
-<img src="https://img.icons8.com/color/240/000000/javascript.png" height="50" width="50"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="50" width="50"/>
-<img src="https://img.icons8.com/color/240/000000/react-native.png" height="50" width="50"/>
-<img src="https://img.icons8.com/color/240/000000/bootstrap.png" height="50" width="50"/>
-<img src="https://img.icons8.com/color/240/000000/python.png" height="50" width="50"/>
-<img src="https://img.icons8.com/color/240/000000/git.png" height="50" width="50"/>
-<img src="https://img.icons8.com/color/240/000000/mysql-logo.png" height="50" width="50"/>
-<img src="https://img.icons8.com/color/240/000000/visual-studio-code-2019.png" height="50" width="50"/>
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align='center'>
