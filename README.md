@@ -42,10 +42,15 @@
 
 
 • Programming Languages: Python, R, Java, JavaScript, C, C++, and SQL<br>
+<br>
 • Web Technologies: HTML, CSS, NodeJS, and ReactJS<br>
+<br>
 • Databases: MySQL, MS SQL Server, Oracle DB, PostgreSQL, and MongoDB<br>
+<br>
 • Cloud: Amazon Web Services (AWS) and Google Cloud Platform (GCP)<br>
+<br>
 • Libraries: Keras, PyTorch, Tensorflow, Flask, Django, NumPy, Pandas, Matplotlib, Seaborn, CNN, and OpenCV<br>
+<br>
 • Tools: Git, Tableau, and PowerBI<br>
 
 
