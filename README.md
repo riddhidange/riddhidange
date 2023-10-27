@@ -41,13 +41,12 @@
 ### Here is a list of the tools and languages I've experience with:
 
 
-Programming Languages: Python, R, C, C++, Java, SQL
-
-Web Technologies: HTML, CSS, JavaScript, Flask, React
-
-Software Tools: GIT, Eclipse, RStudio, Eclipse IDE, and Microsoft Office
-
-Library: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, R Shiny
+• Programming Languages: Python, R, Java, JavaScript, C, C++, and SQL<br>
+• Web Technologies: HTML, CSS, NodeJS, and ReactJS<br>
+• Databases: MySQL, MS SQL Server, Oracle DB, PostgreSQL, and MongoDB<br>
+• Cloud: Amazon Web Services (AWS) and Google Cloud Platform (GCP)<br>
+• Libraries: Keras, PyTorch, Tensorflow, Flask, Django, NumPy, Pandas, Matplotlib, Seaborn, CNN, and OpenCV<br>
+• Tools: Git, Tableau, and PowerBI<br>
 
 
 
